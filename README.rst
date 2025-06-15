@@ -12,7 +12,7 @@ generated topics.  In particular, during model training, we perturb the generate
 
 Datasets
 --------
-Among the three datasets that we have used, **20NewsGroup (20NG)** and **M10** are available in OCTIS_. The another one dataset **GoogleNews (GN)** that we have used in the paper is added in the **preprocessed_datasets**.
+Among the three datasets that we have used, **20NewsGroup (20NG)** and **M10** are available in OCTIS_. Another dataset, **GoogleNews (GN)**, that we have used in the paper, is added to the **preprocessed_datasets**.
 
 Tutorials
 ---------
